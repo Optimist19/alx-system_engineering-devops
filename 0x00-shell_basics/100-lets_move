@@ -1,2 +1,2 @@
 #!/bin/bash
-cp ./html .. -n
+mv [A-Z]* /tmp/u
